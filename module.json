@@ -3,12 +3,12 @@
     "title": "Playlist UI",
     "description": "An improved playlist user interface for Foundry.",
     "author": "Daermion",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimumCoreVersion": "0.7.0",
     "compatibleCoreVersion": "0.7.9",
     "url": "https://github.com/mikthe/foundry-playlist-ui",
-    "manifest": "https://raw.githubusercontent.com/mikthe/foundry-playlist-ui/main/module.json",
-    "download": "https://github.com/mikthe/foundry-playlist-ui/archive/1.0.0.zip",
+    "manifest": "https://raw.githubusercontent.com/Malow/foundry-playlist-ui/main/module.json",
+    "download": "https://github.com/Malow/foundry-playlist-ui/tree/main/archive/1.0.1.zip",
     "scripts": [
         "./scripts/main.js"
     ],
